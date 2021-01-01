@@ -1,4 +1,4 @@
-package com.walace;
+package com.walace.ex32;
 
 public class Point {
 
